@@ -1,0 +1,8 @@
+{
+  "name": "my-encryption-api",
+  "version": "1.0.0",
+  "main": "api/encrypt.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
